@@ -10,4 +10,4 @@ if(arr[i].startsWith(searchWord)){
         return -1;
     }
 }
-//one error during testcase
+//fixed optimized code
