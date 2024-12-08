@@ -1,0 +1,16 @@
+class Solution {
+    public int maxTwoEvents(int[][] events) {
+        int res=0;
+        int maxEvent=0;
+        Arrays.sort(events,(x,y)->x[0]-y[0]); //Sorting by the start time
+        PriorityQueue<int[]>inProg=new PriorityQueue<>((x,y)->x[1]-y[1]);//sorting by end time
+        for(int[]cur:events){
+            while(!inProg.isEmpty() && inProg.peek()[1] < cur[0]){//checking most non overlapping events
+                maxEvent=Math.max(maxEvent,inProg.poll()[2]);
+            }
+            res=Math.max(res,maxEvent+cur[2]);//storing the max value of the sum
+            inProg.offer(cur);
+        }
+        return res;
+    }
+}
