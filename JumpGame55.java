@@ -1,4 +1,4 @@
-class JumpGame{
+class JumpGame55{
     public boolean canJump(int[] nums) {
      int n=nums.length;
   int reachable=0;
