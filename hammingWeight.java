@@ -1,4 +1,4 @@
-class Solution {
+class hammingWeight {
     public int hammingWeight(int n) {
         String s=Integer.toBinaryString(n);
         int count=0;
