@@ -42,3 +42,21 @@ class countPrefixSuffixPairs {
     }
 }
 
+// other not optimal solution using in built functions
+//class Solution {
+//    public int countPrefixSuffixPairs(String[] words) {
+//        int count = 0;
+//        for (int i = 0; i < words.length - 1; i++) {
+//            String s = words[i];
+//            for (int j = i + 1; j < words.length; j++) {
+//                String s2 = words[j];
+//                if (s.length() <= s2.length() &&
+//                    s2.startsWith(s) && s2.endsWith(s)) {
+//                    count++;
+//                }
+//            }
+//        }
+//        return count;
+//    }
+//}
+
