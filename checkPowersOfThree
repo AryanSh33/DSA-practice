@@ -1,0 +1,12 @@
+//LEET 1780. Check if Number is a Sum of Powers of Three
+class checkPowersOfThree{
+    public boolean checkPowersOfThree(int n) {
+       for(int i=n;i>0;i=i/3){
+        if(i%3==2){
+            return false;
+        }
+       }
+       return true;
+
+    }
+}
