@@ -3,7 +3,7 @@ class Solution {
         int max=0,found=0,n=nums.length,j=0;long count=0;
         for(int v:nums){
             if(v>max){
-                max=v;
+                max=v;//find max element;
             }
         }
         for(int i=0;i<n;i++){
@@ -11,7 +11,7 @@ class Solution {
                 found++;
             }
             while(found==k){
-                count+=n-i;
+                count+=n-i;//find no of sub arrays where condition is true;
 if(nums[j]==max){
     found--;
 }
