@@ -3,5 +3,6 @@ class Solution {
         int n=nums.length;
     Arrays.sort(nums);
        return nums[n/2];
+       
     }
 }
