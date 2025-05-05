@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/AryanSh33/DSA-practice/tree/master/0238-product-of-array-except-self) |
 | [0260-single-number-iii](https://github.com/AryanSh33/DSA-practice/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/AryanSh33/DSA-practice/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/AryanSh33/DSA-practice/tree/master/0283-move-zeroes) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/AryanSh33/DSA-practice/tree/master/1227-number-of-equivalent-domino-pairs) |
 ## Hash Table
 |  |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/AryanSh33/DSA-practice/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/AryanSh33/DSA-practice/tree/master/0283-move-zeroes) |
 ## Prefix Sum
 |  |
 | ------- |
