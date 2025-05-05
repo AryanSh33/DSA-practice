@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/AryanSh33/DSA-practice/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/AryanSh33/DSA-practice/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/AryanSh33/DSA-practice/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/AryanSh33/DSA-practice/tree/master/0287-find-the-duplicate-number) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/AryanSh33/DSA-practice/tree/master/1227-number-of-equivalent-domino-pairs) |
 ## Hash Table
 |  |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/AryanSh33/DSA-practice/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/AryanSh33/DSA-practice/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/AryanSh33/DSA-practice/tree/master/0287-find-the-duplicate-number) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/AryanSh33/DSA-practice/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/AryanSh33/DSA-practice/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/AryanSh33/DSA-practice/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/AryanSh33/DSA-practice/tree/master/0287-find-the-duplicate-number) |
 ## Tree
 |  |
 | ------- |
@@ -155,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/AryanSh33/DSA-practice/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/AryanSh33/DSA-practice/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/AryanSh33/DSA-practice/tree/master/0287-find-the-duplicate-number) |
 ## Prefix Sum
 |  |
 | ------- |
