@@ -27,12 +27,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/AryanSh33/DSA-practice/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/AryanSh33/DSA-practice/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/AryanSh33/DSA-practice/tree/master/0234-palindrome-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/AryanSh33/DSA-practice/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/AryanSh33/DSA-practice/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/AryanSh33/DSA-practice/tree/master/0231-power-of-two) |
+| [0234-palindrome-linked-list](https://github.com/AryanSh33/DSA-practice/tree/master/0234-palindrome-linked-list) |
 ## String
 |  |
 | ------- |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/AryanSh33/DSA-practice/tree/master/0225-implement-stack-using-queues) |
+| [0234-palindrome-linked-list](https://github.com/AryanSh33/DSA-practice/tree/master/0234-palindrome-linked-list) |
 ## Design
 |  |
 | ------- |
@@ -120,4 +123,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/AryanSh33/DSA-practice/tree/master/0231-power-of-two) |
+## Two Pointers
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/AryanSh33/DSA-practice/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
