@@ -27,4 +27,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/AryanSh33/DSA-practice/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/AryanSh33/DSA-practice/tree/master/0206-reverse-linked-list) |
+## String
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/AryanSh33/DSA-practice/tree/master/0214-shortest-palindrome) |
+## Rolling Hash
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/AryanSh33/DSA-practice/tree/master/0214-shortest-palindrome) |
+## String Matching
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/AryanSh33/DSA-practice/tree/master/0214-shortest-palindrome) |
+## Hash Function
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/AryanSh33/DSA-practice/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->
