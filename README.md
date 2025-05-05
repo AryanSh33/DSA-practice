@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/AryanSh33/DSA-practice/tree/master/0241-different-ways-to-add-parentheses) |
 | [0806-domino-and-tromino-tiling](https://github.com/AryanSh33/DSA-practice/tree/master/0806-domino-and-tromino-tiling) |
 ## Linked List
 |  |
@@ -37,10 +38,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/AryanSh33/DSA-practice/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/AryanSh33/DSA-practice/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/AryanSh33/DSA-practice/tree/master/0234-palindrome-linked-list) |
+| [0241-different-ways-to-add-parentheses](https://github.com/AryanSh33/DSA-practice/tree/master/0241-different-ways-to-add-parentheses) |
 ## String
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/AryanSh33/DSA-practice/tree/master/0214-shortest-palindrome) |
+| [0241-different-ways-to-add-parentheses](https://github.com/AryanSh33/DSA-practice/tree/master/0241-different-ways-to-add-parentheses) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -125,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/AryanSh33/DSA-practice/tree/master/0231-power-of-two) |
+| [0241-different-ways-to-add-parentheses](https://github.com/AryanSh33/DSA-practice/tree/master/0241-different-ways-to-add-parentheses) |
 ## Two Pointers
 |  |
 | ------- |
@@ -133,4 +137,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/AryanSh33/DSA-practice/tree/master/0238-product-of-array-except-self) |
+## Memoization
+|  |
+| ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/AryanSh33/DSA-practice/tree/master/0241-different-ways-to-add-parentheses) |
 <!---LeetCode Topics End-->
