@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/AryanSh33/DSA-practice/tree/master/0241-different-ways-to-add-parentheses) |
 | [0242-valid-anagram](https://github.com/AryanSh33/DSA-practice/tree/master/0242-valid-anagram) |
 | [0273-integer-to-english-words](https://github.com/AryanSh33/DSA-practice/tree/master/0273-integer-to-english-words) |
+| [0344-reverse-string](https://github.com/AryanSh33/DSA-practice/tree/master/0344-reverse-string) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/AryanSh33/DSA-practice/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/AryanSh33/DSA-practice/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/AryanSh33/DSA-practice/tree/master/0287-find-the-duplicate-number) |
+| [0344-reverse-string](https://github.com/AryanSh33/DSA-practice/tree/master/0344-reverse-string) |
 ## Prefix Sum
 |  |
 | ------- |
