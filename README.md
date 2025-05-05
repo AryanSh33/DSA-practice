@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/AryanSh33/DSA-practice/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/AryanSh33/DSA-practice/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/AryanSh33/DSA-practice/tree/master/0238-product-of-array-except-self) |
+| [0260-single-number-iii](https://github.com/AryanSh33/DSA-practice/tree/master/0260-single-number-iii) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/AryanSh33/DSA-practice/tree/master/1227-number-of-equivalent-domino-pairs) |
 ## Hash Table
 |  |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/AryanSh33/DSA-practice/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/AryanSh33/DSA-practice/tree/master/0231-power-of-two) |
+| [0260-single-number-iii](https://github.com/AryanSh33/DSA-practice/tree/master/0260-single-number-iii) |
 ## Tree
 |  |
 | ------- |
