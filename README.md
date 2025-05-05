@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/AryanSh33/DSA-practice/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/AryanSh33/DSA-practice/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/AryanSh33/DSA-practice/tree/master/0242-valid-anagram) |
+| [0264-ugly-number-ii](https://github.com/AryanSh33/DSA-practice/tree/master/0264-ugly-number-ii) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/AryanSh33/DSA-practice/tree/master/1227-number-of-equivalent-domino-pairs) |
 ## Counting
 |  |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/AryanSh33/DSA-practice/tree/master/0241-different-ways-to-add-parentheses) |
+| [0264-ugly-number-ii](https://github.com/AryanSh33/DSA-practice/tree/master/0264-ugly-number-ii) |
 | [0806-domino-and-tromino-tiling](https://github.com/AryanSh33/DSA-practice/tree/master/0806-domino-and-tromino-tiling) |
 ## Linked List
 |  |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/AryanSh33/DSA-practice/tree/master/0215-kth-largest-element-in-an-array) |
+| [0264-ugly-number-ii](https://github.com/AryanSh33/DSA-practice/tree/master/0264-ugly-number-ii) |
 ## Quickselect
 |  |
 | ------- |
@@ -136,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/AryanSh33/DSA-practice/tree/master/0241-different-ways-to-add-parentheses) |
 | [0258-add-digits](https://github.com/AryanSh33/DSA-practice/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/AryanSh33/DSA-practice/tree/master/0263-ugly-number) |
+| [0264-ugly-number-ii](https://github.com/AryanSh33/DSA-practice/tree/master/0264-ugly-number-ii) |
 ## Two Pointers
 |  |
 | ------- |
