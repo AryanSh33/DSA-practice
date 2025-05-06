@@ -5,6 +5,7 @@ class BinaryTreeSortMinOperation {
         q.add(root);
         int count=0;
         while(!q.isEmpty()){
+            
 TreeNode cur=q.peek();// traveresing the tree and filling the Queue 
 int size=q.size();
 for(int i=0;i<size;i++){
