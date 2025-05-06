@@ -3,6 +3,7 @@ class BinaryTreeSortMinOperation {
     public int minimumOperations(TreeNode root) {
         Queue<TreeNode>q=new LinkedList<>();
         q.add(root);
+        
         int count=0;
         while(!q.isEmpty()){
 TreeNode cur=q.peek();// traveresing the tree and filling the Queue 
