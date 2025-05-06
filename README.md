@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/AryanSh33/DSA-practice/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/AryanSh33/DSA-practice/tree/master/0287-find-the-duplicate-number) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/AryanSh33/DSA-practice/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [2048-build-array-from-permutation](https://github.com/AryanSh33/DSA-practice/tree/master/2048-build-array-from-permutation) |
 ## Hash Table
 |  |
 | ------- |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/AryanSh33/DSA-practice/tree/master/0258-add-digits) |
+| [2048-build-array-from-permutation](https://github.com/AryanSh33/DSA-practice/tree/master/2048-build-array-from-permutation) |
 ## Number Theory
 |  |
 | ------- |
