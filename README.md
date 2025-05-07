@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/AryanSh33/DSA-practice/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/AryanSh33/DSA-practice/tree/master/0273-integer-to-english-words) |
 | [0326-power-of-three](https://github.com/AryanSh33/DSA-practice/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/AryanSh33/DSA-practice/tree/master/0342-power-of-four) |
 ## String
 |  |
 | ------- |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/AryanSh33/DSA-practice/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/AryanSh33/DSA-practice/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/AryanSh33/DSA-practice/tree/master/0287-find-the-duplicate-number) |
+| [0342-power-of-four](https://github.com/AryanSh33/DSA-practice/tree/master/0342-power-of-four) |
 ## Tree
 |  |
 | ------- |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0273-integer-to-english-words](https://github.com/AryanSh33/DSA-practice/tree/master/0273-integer-to-english-words) |
 | [0292-nim-game](https://github.com/AryanSh33/DSA-practice/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/AryanSh33/DSA-practice/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/AryanSh33/DSA-practice/tree/master/0342-power-of-four) |
 ## Two Pointers
 |  |
 | ------- |
