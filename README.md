@@ -28,12 +28,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/AryanSh33/DSA-practice/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/AryanSh33/DSA-practice/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/AryanSh33/DSA-practice/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/AryanSh33/DSA-practice/tree/master/0387-first-unique-character-in-a-string) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/AryanSh33/DSA-practice/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/AryanSh33/DSA-practice/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
 ## Counting
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/AryanSh33/DSA-practice/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/AryanSh33/DSA-practice/tree/master/0387-first-unique-character-in-a-string) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/AryanSh33/DSA-practice/tree/master/1227-number-of-equivalent-domino-pairs) |
 ## Dynamic Programming
 |  |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0273-integer-to-english-words](https://github.com/AryanSh33/DSA-practice/tree/master/0273-integer-to-english-words) |
 | [0344-reverse-string](https://github.com/AryanSh33/DSA-practice/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/AryanSh33/DSA-practice/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/AryanSh33/DSA-practice/tree/master/0387-first-unique-character-in-a-string) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -151,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/AryanSh33/DSA-practice/tree/master/0225-implement-stack-using-queues) |
+| [0387-first-unique-character-in-a-string](https://github.com/AryanSh33/DSA-practice/tree/master/0387-first-unique-character-in-a-string) |
 ## Depth-First Search
 |  |
 | ------- |
