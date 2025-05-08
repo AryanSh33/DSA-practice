@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/AryanSh33/DSA-practice/tree/master/0414-third-maximum-number) |
 | [0416-partition-equal-subset-sum](https://github.com/AryanSh33/DSA-practice/tree/master/0416-partition-equal-subset-sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/AryanSh33/DSA-practice/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0494-target-sum](https://github.com/AryanSh33/DSA-practice/tree/master/0494-target-sum) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/AryanSh33/DSA-practice/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [2048-build-array-from-permutation](https://github.com/AryanSh33/DSA-practice/tree/master/2048-build-array-from-permutation) |
 | [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/AryanSh33/DSA-practice/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/AryanSh33/DSA-practice/tree/master/0368-largest-divisible-subset) |
 | [0392-is-subsequence](https://github.com/AryanSh33/DSA-practice/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/AryanSh33/DSA-practice/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/AryanSh33/DSA-practice/tree/master/0494-target-sum) |
 | [0806-domino-and-tromino-tiling](https://github.com/AryanSh33/DSA-practice/tree/master/0806-domino-and-tromino-tiling) |
 ## Linked List
 |  |
@@ -256,4 +258,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0432-all-oone-data-structure](https://github.com/AryanSh33/DSA-practice/tree/master/0432-all-oone-data-structure) |
+## Backtracking
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/AryanSh33/DSA-practice/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
