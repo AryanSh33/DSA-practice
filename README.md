@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/AryanSh33/DSA-practice/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/AryanSh33/DSA-practice/tree/master/0349-intersection-of-two-arrays) |
 | [0368-largest-divisible-subset](https://github.com/AryanSh33/DSA-practice/tree/master/0368-largest-divisible-subset) |
+| [0407-trapping-rain-water-ii](https://github.com/AryanSh33/DSA-practice/tree/master/0407-trapping-rain-water-ii) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/AryanSh33/DSA-practice/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [2048-build-array-from-permutation](https://github.com/AryanSh33/DSA-practice/tree/master/2048-build-array-from-permutation) |
 | [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/AryanSh33/DSA-practice/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/AryanSh33/DSA-practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0264-ugly-number-ii](https://github.com/AryanSh33/DSA-practice/tree/master/0264-ugly-number-ii) |
+| [0407-trapping-rain-water-ii](https://github.com/AryanSh33/DSA-practice/tree/master/0407-trapping-rain-water-ii) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/AryanSh33/DSA-practice/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Quickselect
 |  |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/AryanSh33/DSA-practice/tree/master/0226-invert-binary-tree) |
+| [0407-trapping-rain-water-ii](https://github.com/AryanSh33/DSA-practice/tree/master/0407-trapping-rain-water-ii) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -228,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0407-trapping-rain-water-ii](https://github.com/AryanSh33/DSA-practice/tree/master/0407-trapping-rain-water-ii) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/AryanSh33/DSA-practice/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Shortest Path
 |  |
