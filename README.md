@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/AryanSh33/DSA-practice/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/AryanSh33/DSA-practice/tree/master/0494-target-sum) |
 | [0806-domino-and-tromino-tiling](https://github.com/AryanSh33/DSA-practice/tree/master/0806-domino-and-tromino-tiling) |
+| [1013-fibonacci-number](https://github.com/AryanSh33/DSA-practice/tree/master/1013-fibonacci-number) |
 ## Linked List
 |  |
 | ------- |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0273-integer-to-english-words](https://github.com/AryanSh33/DSA-practice/tree/master/0273-integer-to-english-words) |
 | [0326-power-of-three](https://github.com/AryanSh33/DSA-practice/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/AryanSh33/DSA-practice/tree/master/0342-power-of-four) |
+| [1013-fibonacci-number](https://github.com/AryanSh33/DSA-practice/tree/master/1013-fibonacci-number) |
 ## String
 |  |
 | ------- |
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/AryanSh33/DSA-practice/tree/master/0367-valid-perfect-square) |
 | [0368-largest-divisible-subset](https://github.com/AryanSh33/DSA-practice/tree/master/0368-largest-divisible-subset) |
 | [0371-sum-of-two-integers](https://github.com/AryanSh33/DSA-practice/tree/master/0371-sum-of-two-integers) |
+| [1013-fibonacci-number](https://github.com/AryanSh33/DSA-practice/tree/master/1013-fibonacci-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -221,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/AryanSh33/DSA-practice/tree/master/0241-different-ways-to-add-parentheses) |
+| [1013-fibonacci-number](https://github.com/AryanSh33/DSA-practice/tree/master/1013-fibonacci-number) |
 ## Simulation
 |  |
 | ------- |
