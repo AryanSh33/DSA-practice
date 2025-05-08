@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/AryanSh33/DSA-practice/tree/master/0349-intersection-of-two-arrays) |
 | [0368-largest-divisible-subset](https://github.com/AryanSh33/DSA-practice/tree/master/0368-largest-divisible-subset) |
 | [0407-trapping-rain-water-ii](https://github.com/AryanSh33/DSA-practice/tree/master/0407-trapping-rain-water-ii) |
+| [0414-third-maximum-number](https://github.com/AryanSh33/DSA-practice/tree/master/0414-third-maximum-number) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/AryanSh33/DSA-practice/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [2048-build-array-from-permutation](https://github.com/AryanSh33/DSA-practice/tree/master/2048-build-array-from-permutation) |
 | [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/AryanSh33/DSA-practice/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/AryanSh33/DSA-practice/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/AryanSh33/DSA-practice/tree/master/0349-intersection-of-two-arrays) |
 | [0368-largest-divisible-subset](https://github.com/AryanSh33/DSA-practice/tree/master/0368-largest-divisible-subset) |
+| [0414-third-maximum-number](https://github.com/AryanSh33/DSA-practice/tree/master/0414-third-maximum-number) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
