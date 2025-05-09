@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0513-find-bottom-left-tree-value](https://github.com/AryanSh33/DSA-practice/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/AryanSh33/DSA-practice/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/AryanSh33/DSA-practice/tree/master/0543-diameter-of-binary-tree) |
+| [0775-n-ary-tree-preorder-traversal](https://github.com/AryanSh33/DSA-practice/tree/master/0775-n-ary-tree-preorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/AryanSh33/DSA-practice/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/AryanSh33/DSA-practice/tree/master/0234-palindrome-linked-list) |
+| [0775-n-ary-tree-preorder-traversal](https://github.com/AryanSh33/DSA-practice/tree/master/0775-n-ary-tree-preorder-traversal) |
 ## Design
 |  |
 | ------- |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0513-find-bottom-left-tree-value](https://github.com/AryanSh33/DSA-practice/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/AryanSh33/DSA-practice/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/AryanSh33/DSA-practice/tree/master/0543-diameter-of-binary-tree) |
+| [0775-n-ary-tree-preorder-traversal](https://github.com/AryanSh33/DSA-practice/tree/master/0775-n-ary-tree-preorder-traversal) |
 ## Breadth-First Search
 |  |
 | ------- |
