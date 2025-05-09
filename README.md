@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0432-all-oone-data-structure](https://github.com/AryanSh33/DSA-practice/tree/master/0432-all-oone-data-structure) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/AryanSh33/DSA-practice/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0535-encode-and-decode-tinyurl](https://github.com/AryanSh33/DSA-practice/tree/master/0535-encode-and-decode-tinyurl) |
+| [0567-permutation-in-string](https://github.com/AryanSh33/DSA-practice/tree/master/0567-permutation-in-string) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/AryanSh33/DSA-practice/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/AryanSh33/DSA-practice/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
 ## Counting
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0539-minimum-time-difference](https://github.com/AryanSh33/DSA-practice/tree/master/0539-minimum-time-difference) |
 | [0541-reverse-string-ii](https://github.com/AryanSh33/DSA-practice/tree/master/0541-reverse-string-ii) |
 | [0564-find-the-closest-palindrome](https://github.com/AryanSh33/DSA-practice/tree/master/0564-find-the-closest-palindrome) |
+| [0567-permutation-in-string](https://github.com/AryanSh33/DSA-practice/tree/master/0567-permutation-in-string) |
 | [3637-count-number-of-balanced-permutations](https://github.com/AryanSh33/DSA-practice/tree/master/3637-count-number-of-balanced-permutations) |
 ## Rolling Hash
 |  |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/AryanSh33/DSA-practice/tree/master/0219-contains-duplicate-ii) |
+| [0567-permutation-in-string](https://github.com/AryanSh33/DSA-practice/tree/master/0567-permutation-in-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -245,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/AryanSh33/DSA-practice/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/AryanSh33/DSA-practice/tree/master/0392-is-subsequence) |
 | [0541-reverse-string-ii](https://github.com/AryanSh33/DSA-practice/tree/master/0541-reverse-string-ii) |
+| [0567-permutation-in-string](https://github.com/AryanSh33/DSA-practice/tree/master/0567-permutation-in-string) |
 ## Prefix Sum
 |  |
 | ------- |
