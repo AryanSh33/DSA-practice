@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/AryanSh33/DSA-practice/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/AryanSh33/DSA-practice/tree/master/0494-target-sum) |
 | [0650-2-keys-keyboard](https://github.com/AryanSh33/DSA-practice/tree/master/0650-2-keys-keyboard) |
+| [0664-strange-printer](https://github.com/AryanSh33/DSA-practice/tree/master/0664-strange-printer) |
 | [0806-domino-and-tromino-tiling](https://github.com/AryanSh33/DSA-practice/tree/master/0806-domino-and-tromino-tiling) |
 | [1013-fibonacci-number](https://github.com/AryanSh33/DSA-practice/tree/master/1013-fibonacci-number) |
 | [3637-count-number-of-balanced-permutations](https://github.com/AryanSh33/DSA-practice/tree/master/3637-count-number-of-balanced-permutations) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0564-find-the-closest-palindrome](https://github.com/AryanSh33/DSA-practice/tree/master/0564-find-the-closest-palindrome) |
 | [0567-permutation-in-string](https://github.com/AryanSh33/DSA-practice/tree/master/0567-permutation-in-string) |
 | [0592-fraction-addition-and-subtraction](https://github.com/AryanSh33/DSA-practice/tree/master/0592-fraction-addition-and-subtraction) |
+| [0664-strange-printer](https://github.com/AryanSh33/DSA-practice/tree/master/0664-strange-printer) |
 | [3637-count-number-of-balanced-permutations](https://github.com/AryanSh33/DSA-practice/tree/master/3637-count-number-of-balanced-permutations) |
 ## Rolling Hash
 |  |
