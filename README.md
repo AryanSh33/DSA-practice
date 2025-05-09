@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0520-detect-capital](https://github.com/AryanSh33/DSA-practice/tree/master/0520-detect-capital) |
 | [0535-encode-and-decode-tinyurl](https://github.com/AryanSh33/DSA-practice/tree/master/0535-encode-and-decode-tinyurl) |
 | [0539-minimum-time-difference](https://github.com/AryanSh33/DSA-practice/tree/master/0539-minimum-time-difference) |
+| [0541-reverse-string-ii](https://github.com/AryanSh33/DSA-practice/tree/master/0541-reverse-string-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/AryanSh33/DSA-practice/tree/master/3637-count-number-of-balanced-permutations) |
 ## Rolling Hash
 |  |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/AryanSh33/DSA-practice/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/AryanSh33/DSA-practice/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/AryanSh33/DSA-practice/tree/master/0392-is-subsequence) |
+| [0541-reverse-string-ii](https://github.com/AryanSh33/DSA-practice/tree/master/0541-reverse-string-ii) |
 ## Prefix Sum
 |  |
 | ------- |
