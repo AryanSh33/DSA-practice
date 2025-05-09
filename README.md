@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/AryanSh33/DSA-practice/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/AryanSh33/DSA-practice/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/AryanSh33/DSA-practice/tree/master/0367-valid-perfect-square) |
+| [0633-sum-of-square-numbers](https://github.com/AryanSh33/DSA-practice/tree/master/0633-sum-of-square-numbers) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0564-find-the-closest-palindrome](https://github.com/AryanSh33/DSA-practice/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/AryanSh33/DSA-practice/tree/master/0592-fraction-addition-and-subtraction) |
 | [0593-valid-square](https://github.com/AryanSh33/DSA-practice/tree/master/0593-valid-square) |
+| [0633-sum-of-square-numbers](https://github.com/AryanSh33/DSA-practice/tree/master/0633-sum-of-square-numbers) |
 | [1013-fibonacci-number](https://github.com/AryanSh33/DSA-practice/tree/master/1013-fibonacci-number) |
 | [3637-count-number-of-balanced-permutations](https://github.com/AryanSh33/DSA-practice/tree/master/3637-count-number-of-balanced-permutations) |
 ## Two Pointers
@@ -264,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/AryanSh33/DSA-practice/tree/master/0392-is-subsequence) |
 | [0541-reverse-string-ii](https://github.com/AryanSh33/DSA-practice/tree/master/0541-reverse-string-ii) |
 | [0567-permutation-in-string](https://github.com/AryanSh33/DSA-practice/tree/master/0567-permutation-in-string) |
+| [0633-sum-of-square-numbers](https://github.com/AryanSh33/DSA-practice/tree/master/0633-sum-of-square-numbers) |
 ## Prefix Sum
 |  |
 | ------- |
