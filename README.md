@@ -267,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0593-valid-square](https://github.com/AryanSh33/DSA-practice/tree/master/0593-valid-square) |
 | [0633-sum-of-square-numbers](https://github.com/AryanSh33/DSA-practice/tree/master/0633-sum-of-square-numbers) |
 | [0650-2-keys-keyboard](https://github.com/AryanSh33/DSA-practice/tree/master/0650-2-keys-keyboard) |
+| [0670-maximum-swap](https://github.com/AryanSh33/DSA-practice/tree/master/0670-maximum-swap) |
 | [1013-fibonacci-number](https://github.com/AryanSh33/DSA-practice/tree/master/1013-fibonacci-number) |
 | [3637-count-number-of-balanced-permutations](https://github.com/AryanSh33/DSA-practice/tree/master/3637-count-number-of-balanced-permutations) |
 ## Two Pointers
@@ -348,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/AryanSh33/DSA-practice/tree/master/0561-array-partition) |
 | [0624-maximum-distance-in-arrays](https://github.com/AryanSh33/DSA-practice/tree/master/0624-maximum-distance-in-arrays) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/AryanSh33/DSA-practice/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0670-maximum-swap](https://github.com/AryanSh33/DSA-practice/tree/master/0670-maximum-swap) |
 ## Counting Sort
 |  |
 | ------- |
