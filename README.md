@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0539-minimum-time-difference](https://github.com/AryanSh33/DSA-practice/tree/master/0539-minimum-time-difference) |
 | [0561-array-partition](https://github.com/AryanSh33/DSA-practice/tree/master/0561-array-partition) |
 | [0624-maximum-distance-in-arrays](https://github.com/AryanSh33/DSA-practice/tree/master/0624-maximum-distance-in-arrays) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/AryanSh33/DSA-practice/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/AryanSh33/DSA-practice/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [2048-build-array-from-permutation](https://github.com/AryanSh33/DSA-practice/tree/master/2048-build-array-from-permutation) |
 | [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/AryanSh33/DSA-practice/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/AryanSh33/DSA-practice/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0535-encode-and-decode-tinyurl](https://github.com/AryanSh33/DSA-practice/tree/master/0535-encode-and-decode-tinyurl) |
 | [0567-permutation-in-string](https://github.com/AryanSh33/DSA-practice/tree/master/0567-permutation-in-string) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/AryanSh33/DSA-practice/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/AryanSh33/DSA-practice/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/AryanSh33/DSA-practice/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
 ## Counting
@@ -130,12 +132,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/AryanSh33/DSA-practice/tree/master/0414-third-maximum-number) |
 | [0539-minimum-time-difference](https://github.com/AryanSh33/DSA-practice/tree/master/0539-minimum-time-difference) |
 | [0561-array-partition](https://github.com/AryanSh33/DSA-practice/tree/master/0561-array-partition) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/AryanSh33/DSA-practice/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/AryanSh33/DSA-practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0264-ugly-number-ii](https://github.com/AryanSh33/DSA-practice/tree/master/0264-ugly-number-ii) |
 | [0407-trapping-rain-water-ii](https://github.com/AryanSh33/DSA-practice/tree/master/0407-trapping-rain-water-ii) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/AryanSh33/DSA-practice/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/AryanSh33/DSA-practice/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/AryanSh33/DSA-practice/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Quickselect
@@ -147,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/AryanSh33/DSA-practice/tree/master/0219-contains-duplicate-ii) |
 | [0567-permutation-in-string](https://github.com/AryanSh33/DSA-practice/tree/master/0567-permutation-in-string) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/AryanSh33/DSA-practice/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 ## Binary Search
 |  |
 | ------- |
@@ -324,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0561-array-partition](https://github.com/AryanSh33/DSA-practice/tree/master/0561-array-partition) |
 | [0624-maximum-distance-in-arrays](https://github.com/AryanSh33/DSA-practice/tree/master/0624-maximum-distance-in-arrays) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/AryanSh33/DSA-practice/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 ## Counting Sort
 |  |
 | ------- |
