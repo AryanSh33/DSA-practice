@@ -244,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0539-minimum-time-difference](https://github.com/AryanSh33/DSA-practice/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/AryanSh33/DSA-practice/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/AryanSh33/DSA-practice/tree/master/0592-fraction-addition-and-subtraction) |
+| [0593-valid-square](https://github.com/AryanSh33/DSA-practice/tree/master/0593-valid-square) |
 | [1013-fibonacci-number](https://github.com/AryanSh33/DSA-practice/tree/master/1013-fibonacci-number) |
 | [3637-count-number-of-balanced-permutations](https://github.com/AryanSh33/DSA-practice/tree/master/3637-count-number-of-balanced-permutations) |
 ## Two Pointers
@@ -325,4 +326,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/AryanSh33/DSA-practice/tree/master/0561-array-partition) |
+## Geometry
+|  |
+| ------- |
+| [0593-valid-square](https://github.com/AryanSh33/DSA-practice/tree/master/0593-valid-square) |
 <!---LeetCode Topics End-->
