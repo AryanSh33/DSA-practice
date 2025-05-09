@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/AryanSh33/DSA-practice/tree/master/0561-array-partition) |
 | [0624-maximum-distance-in-arrays](https://github.com/AryanSh33/DSA-practice/tree/master/0624-maximum-distance-in-arrays) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/AryanSh33/DSA-practice/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/AryanSh33/DSA-practice/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0859-design-circular-deque](https://github.com/AryanSh33/DSA-practice/tree/master/0859-design-circular-deque) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/AryanSh33/DSA-practice/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [2048-build-array-from-permutation](https://github.com/AryanSh33/DSA-practice/tree/master/2048-build-array-from-permutation) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/AryanSh33/DSA-practice/tree/master/0494-target-sum) |
 | [0650-2-keys-keyboard](https://github.com/AryanSh33/DSA-practice/tree/master/0650-2-keys-keyboard) |
 | [0664-strange-printer](https://github.com/AryanSh33/DSA-practice/tree/master/0664-strange-printer) |
+| [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/AryanSh33/DSA-practice/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0806-domino-and-tromino-tiling](https://github.com/AryanSh33/DSA-practice/tree/master/0806-domino-and-tromino-tiling) |
 | [1013-fibonacci-number](https://github.com/AryanSh33/DSA-practice/tree/master/1013-fibonacci-number) |
 | [3637-count-number-of-balanced-permutations](https://github.com/AryanSh33/DSA-practice/tree/master/3637-count-number-of-balanced-permutations) |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/AryanSh33/DSA-practice/tree/master/0219-contains-duplicate-ii) |
 | [0567-permutation-in-string](https://github.com/AryanSh33/DSA-practice/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/AryanSh33/DSA-practice/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/AryanSh33/DSA-practice/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 ## Binary Search
 |  |
 | ------- |
@@ -291,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/AryanSh33/DSA-practice/tree/master/0238-product-of-array-except-self) |
+| [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/AryanSh33/DSA-practice/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 ## Memoization
 |  |
 | ------- |
