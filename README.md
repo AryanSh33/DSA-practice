@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/AryanSh33/DSA-practice/tree/master/0494-target-sum) |
 | [0806-domino-and-tromino-tiling](https://github.com/AryanSh33/DSA-practice/tree/master/0806-domino-and-tromino-tiling) |
 | [1013-fibonacci-number](https://github.com/AryanSh33/DSA-practice/tree/master/1013-fibonacci-number) |
+| [3637-count-number-of-balanced-permutations](https://github.com/AryanSh33/DSA-practice/tree/master/3637-count-number-of-balanced-permutations) |
 ## Linked List
 |  |
 | ------- |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/AryanSh33/DSA-practice/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/AryanSh33/DSA-practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/AryanSh33/DSA-practice/tree/master/0392-is-subsequence) |
+| [3637-count-number-of-balanced-permutations](https://github.com/AryanSh33/DSA-practice/tree/master/3637-count-number-of-balanced-permutations) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/AryanSh33/DSA-practice/tree/master/0368-largest-divisible-subset) |
 | [0371-sum-of-two-integers](https://github.com/AryanSh33/DSA-practice/tree/master/0371-sum-of-two-integers) |
 | [1013-fibonacci-number](https://github.com/AryanSh33/DSA-practice/tree/master/1013-fibonacci-number) |
+| [3637-count-number-of-balanced-permutations](https://github.com/AryanSh33/DSA-practice/tree/master/3637-count-number-of-balanced-permutations) |
 ## Two Pointers
 |  |
 | ------- |
@@ -271,4 +274,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/AryanSh33/DSA-practice/tree/master/0494-target-sum) |
+## Combinatorics
+|  |
+| ------- |
+| [3637-count-number-of-balanced-permutations](https://github.com/AryanSh33/DSA-practice/tree/master/3637-count-number-of-balanced-permutations) |
 <!---LeetCode Topics End-->
