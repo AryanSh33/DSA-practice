@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/AryanSh33/DSA-practice/tree/master/0494-target-sum) |
 | [0539-minimum-time-difference](https://github.com/AryanSh33/DSA-practice/tree/master/0539-minimum-time-difference) |
 | [0561-array-partition](https://github.com/AryanSh33/DSA-practice/tree/master/0561-array-partition) |
+| [0624-maximum-distance-in-arrays](https://github.com/AryanSh33/DSA-practice/tree/master/0624-maximum-distance-in-arrays) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/AryanSh33/DSA-practice/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [2048-build-array-from-permutation](https://github.com/AryanSh33/DSA-practice/tree/master/2048-build-array-from-permutation) |
 | [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/AryanSh33/DSA-practice/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
@@ -322,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/AryanSh33/DSA-practice/tree/master/0561-array-partition) |
+| [0624-maximum-distance-in-arrays](https://github.com/AryanSh33/DSA-practice/tree/master/0624-maximum-distance-in-arrays) |
 ## Counting Sort
 |  |
 | ------- |
