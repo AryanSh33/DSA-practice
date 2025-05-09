@@ -231,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/AryanSh33/DSA-practice/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/AryanSh33/DSA-practice/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AryanSh33/DSA-practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0684-redundant-connection](https://github.com/AryanSh33/DSA-practice/tree/master/0684-redundant-connection) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/AryanSh33/DSA-practice/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/AryanSh33/DSA-practice/tree/master/0776-n-ary-tree-postorder-traversal) |
 ## Breadth-First Search
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0513-find-bottom-left-tree-value](https://github.com/AryanSh33/DSA-practice/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/AryanSh33/DSA-practice/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AryanSh33/DSA-practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0684-redundant-connection](https://github.com/AryanSh33/DSA-practice/tree/master/0684-redundant-connection) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -315,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [0684-redundant-connection](https://github.com/AryanSh33/DSA-practice/tree/master/0684-redundant-connection) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/AryanSh33/DSA-practice/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/AryanSh33/DSA-practice/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Matrix
@@ -361,4 +364,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0593-valid-square](https://github.com/AryanSh33/DSA-practice/tree/master/0593-valid-square) |
+## Union Find
+|  |
+| ------- |
+| [0684-redundant-connection](https://github.com/AryanSh33/DSA-practice/tree/master/0684-redundant-connection) |
 <!---LeetCode Topics End-->
