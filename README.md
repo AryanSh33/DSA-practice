@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/AryanSh33/DSA-practice/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/AryanSh33/DSA-practice/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/AryanSh33/DSA-practice/tree/master/0494-target-sum) |
+| [0650-2-keys-keyboard](https://github.com/AryanSh33/DSA-practice/tree/master/0650-2-keys-keyboard) |
 | [0806-domino-and-tromino-tiling](https://github.com/AryanSh33/DSA-practice/tree/master/0806-domino-and-tromino-tiling) |
 | [1013-fibonacci-number](https://github.com/AryanSh33/DSA-practice/tree/master/1013-fibonacci-number) |
 | [3637-count-number-of-balanced-permutations](https://github.com/AryanSh33/DSA-practice/tree/master/3637-count-number-of-balanced-permutations) |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0592-fraction-addition-and-subtraction](https://github.com/AryanSh33/DSA-practice/tree/master/0592-fraction-addition-and-subtraction) |
 | [0593-valid-square](https://github.com/AryanSh33/DSA-practice/tree/master/0593-valid-square) |
 | [0633-sum-of-square-numbers](https://github.com/AryanSh33/DSA-practice/tree/master/0633-sum-of-square-numbers) |
+| [0650-2-keys-keyboard](https://github.com/AryanSh33/DSA-practice/tree/master/0650-2-keys-keyboard) |
 | [1013-fibonacci-number](https://github.com/AryanSh33/DSA-practice/tree/master/1013-fibonacci-number) |
 | [3637-count-number-of-balanced-permutations](https://github.com/AryanSh33/DSA-practice/tree/master/3637-count-number-of-balanced-permutations) |
 ## Two Pointers
