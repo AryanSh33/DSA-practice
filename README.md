@@ -156,12 +156,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/AryanSh33/DSA-practice/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/AryanSh33/DSA-practice/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/AryanSh33/DSA-practice/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0513-find-bottom-left-tree-value](https://github.com/AryanSh33/DSA-practice/tree/master/0513-find-bottom-left-tree-value) |
 ## Binary Tree
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/AryanSh33/DSA-practice/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/AryanSh33/DSA-practice/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/AryanSh33/DSA-practice/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0513-find-bottom-left-tree-value](https://github.com/AryanSh33/DSA-practice/tree/master/0513-find-bottom-left-tree-value) |
 ## Stack
 |  |
 | ------- |
@@ -183,11 +185,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/AryanSh33/DSA-practice/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/AryanSh33/DSA-practice/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0386-lexicographical-numbers](https://github.com/AryanSh33/DSA-practice/tree/master/0386-lexicographical-numbers) |
+| [0513-find-bottom-left-tree-value](https://github.com/AryanSh33/DSA-practice/tree/master/0513-find-bottom-left-tree-value) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/AryanSh33/DSA-practice/tree/master/0226-invert-binary-tree) |
 | [0407-trapping-rain-water-ii](https://github.com/AryanSh33/DSA-practice/tree/master/0407-trapping-rain-water-ii) |
+| [0513-find-bottom-left-tree-value](https://github.com/AryanSh33/DSA-practice/tree/master/0513-find-bottom-left-tree-value) |
 ## Binary Search Tree
 |  |
 | ------- |
