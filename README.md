@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/AryanSh33/DSA-practice/tree/master/0264-ugly-number-ii) |
 | [0407-trapping-rain-water-ii](https://github.com/AryanSh33/DSA-practice/tree/master/0407-trapping-rain-water-ii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/AryanSh33/DSA-practice/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/AryanSh33/DSA-practice/tree/master/0789-kth-largest-element-in-a-stream) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/AryanSh33/DSA-practice/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/AryanSh33/DSA-practice/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Quickselect
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AryanSh33/DSA-practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/AryanSh33/DSA-practice/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/AryanSh33/DSA-practice/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/AryanSh33/DSA-practice/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Binary Tree
 |  |
 | ------- |
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/AryanSh33/DSA-practice/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/AryanSh33/DSA-practice/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AryanSh33/DSA-practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/AryanSh33/DSA-practice/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Stack
 |  |
 | ------- |
@@ -218,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/AryanSh33/DSA-practice/tree/master/0225-implement-stack-using-queues) |
 | [0432-all-oone-data-structure](https://github.com/AryanSh33/DSA-practice/tree/master/0432-all-oone-data-structure) |
 | [0535-encode-and-decode-tinyurl](https://github.com/AryanSh33/DSA-practice/tree/master/0535-encode-and-decode-tinyurl) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/AryanSh33/DSA-practice/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0859-design-circular-deque](https://github.com/AryanSh33/DSA-practice/tree/master/0859-design-circular-deque) |
 ## Queue
 |  |
@@ -252,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/AryanSh33/DSA-practice/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AryanSh33/DSA-practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/AryanSh33/DSA-practice/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Math
 |  |
 | ------- |
@@ -373,4 +378,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0684-redundant-connection](https://github.com/AryanSh33/DSA-practice/tree/master/0684-redundant-connection) |
+## Data Stream
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/AryanSh33/DSA-practice/tree/master/0789-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->
