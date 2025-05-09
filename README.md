@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/AryanSh33/DSA-practice/tree/master/0561-array-partition) |
 | [0624-maximum-distance-in-arrays](https://github.com/AryanSh33/DSA-practice/tree/master/0624-maximum-distance-in-arrays) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/AryanSh33/DSA-practice/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0859-design-circular-deque](https://github.com/AryanSh33/DSA-practice/tree/master/0859-design-circular-deque) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/AryanSh33/DSA-practice/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [2048-build-array-from-permutation](https://github.com/AryanSh33/DSA-practice/tree/master/2048-build-array-from-permutation) |
 | [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/AryanSh33/DSA-practice/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/AryanSh33/DSA-practice/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/AryanSh33/DSA-practice/tree/master/0237-delete-node-in-a-linked-list) |
 | [0432-all-oone-data-structure](https://github.com/AryanSh33/DSA-practice/tree/master/0432-all-oone-data-structure) |
+| [0859-design-circular-deque](https://github.com/AryanSh33/DSA-practice/tree/master/0859-design-circular-deque) |
 ## Recursion
 |  |
 | ------- |
@@ -205,11 +207,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/AryanSh33/DSA-practice/tree/master/0225-implement-stack-using-queues) |
 | [0432-all-oone-data-structure](https://github.com/AryanSh33/DSA-practice/tree/master/0432-all-oone-data-structure) |
 | [0535-encode-and-decode-tinyurl](https://github.com/AryanSh33/DSA-practice/tree/master/0535-encode-and-decode-tinyurl) |
+| [0859-design-circular-deque](https://github.com/AryanSh33/DSA-practice/tree/master/0859-design-circular-deque) |
 ## Queue
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/AryanSh33/DSA-practice/tree/master/0225-implement-stack-using-queues) |
 | [0387-first-unique-character-in-a-string](https://github.com/AryanSh33/DSA-practice/tree/master/0387-first-unique-character-in-a-string) |
+| [0859-design-circular-deque](https://github.com/AryanSh33/DSA-practice/tree/master/0859-design-circular-deque) |
 ## Depth-First Search
 |  |
 | ------- |
