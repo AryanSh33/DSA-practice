@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/AryanSh33/DSA-practice/tree/master/0416-partition-equal-subset-sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/AryanSh33/DSA-practice/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0494-target-sum](https://github.com/AryanSh33/DSA-practice/tree/master/0494-target-sum) |
+| [0539-minimum-time-difference](https://github.com/AryanSh33/DSA-practice/tree/master/0539-minimum-time-difference) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/AryanSh33/DSA-practice/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [2048-build-array-from-permutation](https://github.com/AryanSh33/DSA-practice/tree/master/2048-build-array-from-permutation) |
 | [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/AryanSh33/DSA-practice/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/AryanSh33/DSA-practice/tree/master/0392-is-subsequence) |
 | [0520-detect-capital](https://github.com/AryanSh33/DSA-practice/tree/master/0520-detect-capital) |
 | [0535-encode-and-decode-tinyurl](https://github.com/AryanSh33/DSA-practice/tree/master/0535-encode-and-decode-tinyurl) |
+| [0539-minimum-time-difference](https://github.com/AryanSh33/DSA-practice/tree/master/0539-minimum-time-difference) |
 | [3637-count-number-of-balanced-permutations](https://github.com/AryanSh33/DSA-practice/tree/master/3637-count-number-of-balanced-permutations) |
 ## Rolling Hash
 |  |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/AryanSh33/DSA-practice/tree/master/0349-intersection-of-two-arrays) |
 | [0368-largest-divisible-subset](https://github.com/AryanSh33/DSA-practice/tree/master/0368-largest-divisible-subset) |
 | [0414-third-maximum-number](https://github.com/AryanSh33/DSA-practice/tree/master/0414-third-maximum-number) |
+| [0539-minimum-time-difference](https://github.com/AryanSh33/DSA-practice/tree/master/0539-minimum-time-difference) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -221,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/AryanSh33/DSA-practice/tree/master/0367-valid-perfect-square) |
 | [0368-largest-divisible-subset](https://github.com/AryanSh33/DSA-practice/tree/master/0368-largest-divisible-subset) |
 | [0371-sum-of-two-integers](https://github.com/AryanSh33/DSA-practice/tree/master/0371-sum-of-two-integers) |
+| [0539-minimum-time-difference](https://github.com/AryanSh33/DSA-practice/tree/master/0539-minimum-time-difference) |
 | [1013-fibonacci-number](https://github.com/AryanSh33/DSA-practice/tree/master/1013-fibonacci-number) |
 | [3637-count-number-of-balanced-permutations](https://github.com/AryanSh33/DSA-practice/tree/master/3637-count-number-of-balanced-permutations) |
 ## Two Pointers
